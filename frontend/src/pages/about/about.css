@@ -1,0 +1,41 @@
+.about {
+  padding: 50px 0;
+  text-align: justify;
+  min-height: 55vh;
+}
+
+.about-content {
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.7;
+}
+
+.heading1 {
+  font-size: 32px;
+  color: #8a4baf;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+.heading2 {
+  font-size: 27px;
+  color: #8a4baf;
+  margin-bottom: 20px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 16px;
+  color: #333;
+  line-height: 1.6;
+  margin-bottom: 8px;
+}
+
+.bold-text {
+  font-weight: bold;
+}
+
+ul {
+  line-height: 1.7;
+  margin-bottom: 20px;
+}
